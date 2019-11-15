@@ -12,7 +12,7 @@ export default {
     }
   },
   mounted() {
-    socialShare(".social-share", this.config)
+    socialShare(".social-share", this.shareConfig)
   }
 }
 </script>

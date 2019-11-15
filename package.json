@@ -1,7 +1,7 @@
 {
   "name": "dd-share",
   "description": "基于share.js封装的一键分享插件",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "imcoder <imacoder@126.com>",
   "license": "MIT",
   "private": false,
